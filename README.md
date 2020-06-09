@@ -24,8 +24,9 @@ conda install tensorflow
 conda install -c menpo opencv3
 ```
 Obs.: após a instalação do OpenCV, é possível ter um erro referente a uma biblioteca do "libg++.so.5" ou algo do gênero. Para corrigir este possível erro basta utilizar o Anaconda para atualizar sua biblitoeca libgcc:
-
+```
 $ conda install libgcc
+```
 
 **4. Arcade Learning Environment:**
 
