@@ -2,6 +2,10 @@
 
 Projeto de Deep Reinforcement Learning proveniente de um workshop reailizado na Universidade Federal do Ceará durante a semana acadêmica do curso de Computação.
 
+Este projeto implementa uma IA capaz de aprender a jogar Breakout, um famoso jogo de atari.
+
+![](breakout_capa.jpg)
+
 ## Iniciando
 
 Este projeto é realizado utilizando python e outras bibliotecas adicionais.
