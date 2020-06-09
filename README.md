@@ -36,3 +36,6 @@ Você pode testar o ALE ao abrir um terminal Python 3 e executar o comando "from
 ## Rodando
 
 Basta executar o arquivo *AtariDQN.py* caso todas as instalações estejam corretas.
+```
+python Atari.DQN.py
+```
